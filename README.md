@@ -1,4 +1,4 @@
-#Project made in React
+# Project made in React
 
 To start run: 'yarn start' in terminal and 'node ./node_modules/minhas-series-server/index.js' in another
 
