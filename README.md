@@ -1,3 +1,5 @@
+To start run: yarn start in terminal and node ./node_modules/minhas-series-server/index.js in another
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
