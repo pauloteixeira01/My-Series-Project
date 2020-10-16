@@ -1,6 +1,17 @@
-# Project made in React
+# About this project
+![banner]()
+## Technologies Used
+### React.js and SQLite.
 
-To start run: 'yarn start' in terminal and 'node ./node_modules/minhas-series-server/index.js' in another
+## register your series
+### Here you can register your favorite series.
+
+## Downloading Dependencies
+### 'yarn' or 'npm install'
+
+## To start run: 
+### 'yarn start' or 'npm start' in folder project
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

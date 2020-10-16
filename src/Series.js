@@ -38,7 +38,7 @@ const Series = () => {
         return (
             <div className='container'>
                 <h1>Séries</h1>
-                <Link to='/series/novo' className='btn btn-primary'>Novo Série</Link>
+                <Link to='/series/novo' className='btn btn-primary'>Nova Série</Link>
                 <div className="alert alert-warning" role="alert">
                     Você não possui séries criadas.
                 </div>
