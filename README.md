@@ -1,22 +1,20 @@
-# About this project
-
-![banner](https://github.com/PauloTxJS/My-Series-Project/blob/master/src/img/banner1.png)
-
-![banner](https://github.com/PauloTxJS/My-Series-Project/blob/master/src/img/banner2.png)
-
-![banner](https://github.com/PauloTxJS/My-Series-Project/blob/master/src/img/banner3.png)
-
-## Register your series
+# My Series Project
 Here you can register your favorite series.
 
-## Technologies Used
-React and Bootstrap.
+## Technologies used
+* ReactJS
+* Bootstrap
 
-## Downloading Dependencies
-'yarn' or 'npm install'
+## To run the project
+1. Open a terminal in the project folder.
+2. Download the dependencies with the command: **yarn** or **npm install**
+3. Run the project with the command: **yarn start** or **npm start**
 
 ## You need API-SERVER, to download:
-https://github.com/PauloTxJS/API-Server-My-Series-Project
+https://github.com/pauloteixeira01/API-Server-My-Series-Project
 
-## To start run: 
-'yarn start' or 'npm start' in folder project
+![banner](https://github.com/pauloteixeira01/My-Series-Project/blob/master/src/img/banner1.png)
+
+![banner](https://github.com/pauloteixeira01/My-Series-Project/blob/master/src/img/banner2.png)
+
+![banner](https://github.com/pauloteixeira01/My-Series-Project/blob/master/src/img/banner3.png)
